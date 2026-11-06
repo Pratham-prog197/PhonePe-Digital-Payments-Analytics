@@ -584,21 +584,7 @@ The findings should be interpreted in the context of the available dataset and i
 
 ---
 
-## 🚀 Future Improvements
 
-Potential extensions to improve the analytical solution include:
-
-- Developing a structured data-quality validation report.
-- Investigating and resolving state-district reconciliation discrepancies.
-- Validating business keys and dataset merge cardinality.
-- Comparing transaction growth across equivalent time periods.
-- Developing additional regional performance metrics.
-- Exploring registered-user penetration using more detailed population and adoption data.
-- Adding statistical tests to investigate specific hypotheses.
-- Automating the data preparation and reporting workflow.
-- Extending the dashboard with more detailed regional drill-through analysis.
-
----
 
 ## 🧠 Skills Demonstrated
 
