@@ -266,7 +266,7 @@ Key components:
 
 #### Dashboard Preview
 
-![Executive Overview](images/01_executive_overview.png)
+<img width="1397" height="796" alt="Screenshot 2026-11-07 002425" src="https://github.com/user-attachments/assets/de98b7c0-7c13-4b64-b608-279d6c148b60" />
 
 ---
 
