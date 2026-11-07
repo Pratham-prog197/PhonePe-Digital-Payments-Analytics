@@ -266,7 +266,7 @@ Key components:
 
 #### Dashboard Preview
 
-<img width="1397" height="796" alt="Screenshot 2026-11-07 002425" src="https://github.com/user-attachments/assets/de98b7c0-7c13-4b64-b608-279d6c148b60" />
+<img width="1397" height="790" alt="Screenshot 2026-11-07 002425" src="https://github.com/user-attachments/assets/de98b7c0-7c13-4b64-b608-279d6c148b60" />
 
 ---
 
@@ -286,8 +286,8 @@ Key components:
 **Purpose:** Identify transaction growth patterns, changes in activity and regional performance over the reporting period.
 
 #### Dashboard Preview
+<img width="1391" height="790" alt="Screenshot 2026-11-07 002536" src="https://github.com/user-attachments/assets/482366cd-de85-4e93-ae0a-79cc49063d6d" />
 
-![Transaction Trends](images/02_transaction_trends.png)
 
 ---
 
@@ -310,8 +310,7 @@ Key components:
 **Purpose:** Understand user-registration patterns, app activity and device-brand representation.
 
 #### Dashboard Preview
-
-![User and Device Analysis](images/03_user_device_analysis.png)
+<img width="1392" height="790" alt="Screenshot 2026-11-07 002600" src="https://github.com/user-attachments/assets/9cc09019-fdd7-4b6c-a980-8f38bad40620" />
 
 ---
 
@@ -331,8 +330,7 @@ Key components:
 **Purpose:** Identify geographical differences in transaction activity and compare regional performance at different levels.
 
 #### Dashboard Preview
-
-![State and District Performance](images/04_state_district_performance.png)
+<img width="1392" height="791" alt="Screenshot 2026-11-07 002621" src="https://github.com/user-attachments/assets/cd2a4a22-00b5-425d-aa4f-c8b5b883266a" />
 
 ---
 
@@ -353,7 +351,8 @@ Key components:
 
 #### Dashboard Preview
 
-![Insights and Recommendations](images/05_insights_recommendations.png)
+
+<img width="1390" height="790" alt="Screenshot 2026-11-07 002653" src="https://github.com/user-attachments/assets/b86d5485-9cd5-4a6e-94b8-b816174dacdc" />
 
 ---
 
@@ -373,7 +372,8 @@ Key components:
 
 #### Dashboard Preview
 
-![Final Insights](images/06_final_insights.png)
+<img width="1390" height="790" alt="Screenshot 2026-11-07 002727" src="https://github.com/user-attachments/assets/8488e10b-147c-491f-9f92-1a5e31a8342d" />
+
 
 ---
 
