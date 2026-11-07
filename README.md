@@ -485,56 +485,13 @@ PhonePe-Digital-Payments-Analytics/
 │   └── 06_final_insights.png
 │
 ├── README.md
-├── requirements.txt
-└── .gitignore
+
 ```
 
 ---
 
-## ⚙️ How to Run the Project
 
-### Prerequisites
 
-Make sure the following are installed:
-
-- Python 3.x
-- Jupyter Notebook
-- Microsoft Power BI Desktop
-- Required Python libraries
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/PhonePe-Digital-Payments-Analytics.git
-```
-
-### 2. Navigate to the Project Folder
-
-```bash
-cd PhonePe-Digital-Payments-Analytics
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### 5. Run the Python Analysis
-
-Navigate to the `notebooks` directory and open:
-
-`PhonePe_Data_Analysis.ipynb`
-
-Ensure the raw Excel dataset is available in the `data` directory.
-
-Update the input file paths in the notebook if necessary, then execute the cells in sequence.
 
 ### 6. Explore the Power BI Dashboard
 
@@ -559,11 +516,6 @@ openpyxl
 jupyter
 ```
 
-They can also be installed using:
-
-```bash
-pip install pandas numpy matplotlib seaborn openpyxl jupyter
-```
 
 ---
 
