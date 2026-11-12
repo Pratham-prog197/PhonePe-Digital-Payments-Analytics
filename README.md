@@ -519,23 +519,6 @@ jupyter
 
 ---
 
-## ⚠️ Data Limitations and Considerations
-
-The findings should be interpreted in the context of the available dataset and its limitations.
-
-- The analysis covers Q1 2018 to Q2 2021 and does not represent current PhonePe performance.
-- The 2021 dataset covers only two quarters, so partial-year totals should not be directly compared with full-year totals.
-- Missing values and data inconsistencies may affect particular calculations.
-- State-level and district-level aggregates may not reconcile perfectly and require validation.
-- Correlation indicates association, not causation.
-- Registered users should not automatically be interpreted as active users.
-- Transactions per app open is an aggregate ratio and not necessarily a session-level conversion rate.
-- Aggregated regional data may conceal differences between individual users.
-- Population and demographic indicators alone may not explain digital payment adoption.
-- The findings should not automatically be generalized to all PhonePe users or all digital payment activity in India.
-
----
-
 
 
 ## 🧠 Skills Demonstrated
