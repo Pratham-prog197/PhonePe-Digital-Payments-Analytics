@@ -184,7 +184,22 @@ Key analytical areas:
 - Population distribution.
 - Regional differences in transaction activity.
 
-### 4. Advanced Analysis and Dataset Integration
+## 4. Advanced Analysis and Dataset Integration
+
+###  User Engagement and Transaction Activity
+
+The correlation analysis revealed:
+
+| Variables | Correlation |
+|---|---:|
+| Transactions vs Transaction Amount | 0.98 |
+| Transactions vs App Opens | 0.84 |
+| Transaction Amount vs App Opens | 0.84 |
+| Transactions vs Registered Users | 0.80 |
+| App Opens vs Registered Users | 0.86 |
+| Population vs Registered Users | 0.66 |
+| Population vs Transactions | 0.36 |
+| Population vs Transaction Amount | 0.35 |
 
 Beyond basic exploratory analysis, additional analysis was performed by combining datasets and creating derived metrics.
 
